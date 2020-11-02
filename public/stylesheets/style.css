@@ -1,0 +1,148 @@
+body {
+    margin: 0px;
+    text-align: justify;
+}
+
+.site-header {
+    margin-top: 20px;
+    
+}
+
+.title {
+    text-decoration: none;
+    color: #634444;
+}
+
+.site-title:hover {
+    text-decoration: none;
+    color: #634444;
+}
+
+.nav {
+    padding-left: 150px;
+}
+.nav-link {
+    font-size: 18px;
+}
+
+.active {
+    color: #634444;
+}
+
+.unabled {
+    color: grey;
+}
+
+.unabled:hover {
+    color: #634444;
+}
+
+h2 {
+    color: #634444;
+    text-align: center;
+}
+
+
+.link {
+    color: gray;
+}
+.link:hover {
+    color: #634444;
+    font-size: large;
+}
+.home {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+   
+}
+.logo {
+    width: 90%;
+    margin: auto;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.col-red {
+    border: 1px solid gray;
+    color: #634444;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(219, 214, 214);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+svg {
+    height: 30px;
+    margin: 10px;
+    color: whitesmoke;
+}
+
+.section-title {
+    margin-top: 30px;
+    padding-left: 5%;
+}
+
+img {
+    border: 7px solid rgb(219, 214, 214);
+    margin-top: 25px;
+}
+
+.subtitle {
+    color: grey;
+    margin-top: 16px;
+}
+
+.pic {
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+.btn-container {
+    margin: auto;
+    width: 166.23px;
+
+}
+
+#button {
+    margin-top: 30px;
+    border: none;
+    padding: 8px;
+    font-size: 20px;
+    box-sizing: border-box; 
+     background: #634444;
+}
+
+.know-more {
+    color: rgb(219, 214, 214);
+    text-decoration: none;
+}
+
+.know-more:hover {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 12px;
+    color: whitesmoke;
+}
+
+.footer {
+    margin-top: 50px;
+    background-color: #634444;
+    padding: 15px 0 15px 0;
+    color: rgb(219, 214, 214);
+}
+
+.theme {
+    color: rgb(219, 214, 214);
+    position: relative;
+    left: -20px
+}
+
+.white {
+    color: white;
+}
