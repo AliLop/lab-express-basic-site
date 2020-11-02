@@ -84,7 +84,7 @@ svg {
 
 .section-title {
     margin-top: 30px;
-    padding-left: 5%;
+    text-align: center;
 }
 
 img {
@@ -97,6 +97,9 @@ img {
     margin-top: 16px;
 }
 
+.text {
+    text-align: justify;
+}
 .pic {
     align-items: center;
     margin: auto;
